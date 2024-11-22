@@ -1,0 +1,39 @@
+.markdown h1, .markdown h2, .markdown h3, .markdown h4, .markdown h5, .markdown h6 {
+    color: #00FF7F;  /* Green titles */
+}
+
+/* Dropdown styling for dark theme */
+.page-size-dropdown .Select__control, .page-size-dropdown .Select__menu {
+    background-color: #222 !important; /* Dark background for control and menu */
+    border-color: #444 !important;     /* Border to match theme */
+    font-family: sans-serif !important; /* Consistent font */
+}
+
+/* Styling for the selected value and placeholder text */
+.page-size-dropdown .Select__single-value,
+.page-size-dropdown .Select__placeholder {
+    color: #00FF7F !important; /* Green text */
+    background-color: #222 !important;
+}
+
+/* Dropdown menu options */
+.page-size-dropdown .Select__menu {
+    background-color: #222 !important; /* Dark background for dropdown options */
+    color: #00FF7F !important;         /* Green text for options */
+}
+
+/* Individual option styling */
+.page-size-dropdown .Select__option {
+    background-color: #222 !important; /* Dark background for each option */
+    color: #00FF7F !important;            /* Light gray text for unselected options */
+}
+
+.page-size-dropdown .Select__option--is-focused {
+    background-color: #222 !important; /* Slightly lighter background on hover */
+    color: #00FF7F !important;
+}
+
+.page-size-dropdown .Select__option--is-selected {
+    background-color: #222 !important; /* Highlight selected option in green */
+    color: #00FF7F !important;
+}

@@ -1,0 +1,6 @@
+*bck
+*tmp
+databases/
+uploads/
+local/myheritage/
+*__pycache__*
