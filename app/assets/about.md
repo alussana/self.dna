@@ -1,27 +1,27 @@
 #### What's inside the nucleus of your cells?
 
-This app was born from the idea that everyone should be able to browse, interpret, and understand their own source code.
+This app was born from the idea that everyone should be able to browse, interpret, and understand their own genome.
 
-A very small percentage of humans alive today posses fundamental knowledge in molecular biology and genetics.
+A very small percentage of humans alive today posses fundamental knowledge in molecular biology.
 However, right now we have capabilities that could have been considered science fiction until only some years ago:
 
 * **reading DNA has become extremely cheap**.
   Reading a human genome can be done commercially, B2C, for a few hundred bucks.
 * **writing DNA has become routine**.
-  Tools to stably modify DNA in living organisms, so that the changes can be passed on to the offspring, are now established and frequently used in the lab.
+  Tools to stably modify DNA in living organisms, so that the changes can be passed on to the offspring, are now established and frequently used in research.
 
 The technologies behind these and other advancements allow us, every day and right now,
 to discover causes of disease, to make powerful diagnostic tools and targeted therapeutics, to design efficient biomanufacturing processes, to engineer crops and foods with ideal properties, and more.
 
 They also have an additional consequence.
 
-_Before_, any modification of the human genome, and of allele frequencies in human populations that occurred through history, could exclusively be attributed to mating, natural selection, and migrations.
+Until now, any modification of the human genome - changes of allele frequencies in human populations that occurred through history -, could exclusively be attributed to mating, natural selection, and migrations.
 
-From now on, this is no longer necessarily the case. By unlocking the "writing permissions" on the genome, we have now reached the point in our short history where we can potentially take conscius decisions to alter our DNA and the DNA of our offspring with targeted changes. 
+This is no longer necessarily the case. By unlocking the "writing permissions" on the genome we have now reached the point in our short history where we can potentially take conscius decisions to alter our DNA and the DNA of our offspring with targeted changes. 
 **Humans have evolved to a point in which they are potentially capable of controlling and accelerating their own evolution.**
 While all previously mentioned evolutionary processes will continue to act as usual, the possibility to alter our genetic pool at will needs to be considered into the equation. 
 
-This is not likely to happen for a long while, at least not at scale. The reason is because our understanding of how genetic information and other molecular features translate into physical traits is still limited.
+This is not likely to happen for a long while, at least not at scale. The reason is that our understanding of how genetic information and other molecular features translate into physical traits is still limited.
 Nonetheless, we possess the ability to functionally characterise the variations in our DNA to an extent that for most people would be highly surprising. Likewise, it is possible to predict a likely functional outcome for many hypothetical DNA changes.
 
 Our capabilities to interpret and work with our DNA are constantly improving. This app aims at bringing these capabilities to any individual so that they can take a look at their genome and learn something about it.
@@ -85,8 +85,8 @@ The information above is reported in a interactive table that can be filtered by
 
 #### Self hosting
 
-When it comes to personal genomic data, privacy can be an issue.
-This application is meant to be portable and it can be depolyed anywhere with minimal effort. You can host `self.dna` on your own computer by cloning the repository and following these steps:
+When it comes to personal genomics data, privacy can be an issue.
+This application is meant to be depolyable anywhere with minimal effort. You can host `self.dna` on your own server by cloning [the repository](https://github.com/alussana/self.dna) and following these steps:
 
 1. Build the Docker image
 

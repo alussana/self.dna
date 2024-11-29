@@ -1,6 +1,6 @@
 # self.dna
 
-Browse your source code.
+Browse your source code :dna:
 
 ## Setup
 
@@ -28,7 +28,7 @@ docker run -p ${SELF_DNA_PORT}:8050 -v ${UPLOADS_DIR}:/app/uploads -v ${DB_DIR}:
 
 ### 4. Connect
 
-Your `self.dna` instance is reachable at [http://localhost:8050](http://localhost:8050).
+Your `self.dna` instance is reachable at [http://localhost:8050](http://localhost:8050) (or the port set by `${SELF_DNA_PORT}`).
 
 ## Licence
 
